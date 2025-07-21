@@ -64,7 +64,7 @@ This confirmed the presence of both "input_" columns (client data) and their cor
 
 The goal was to find the best match per each company. I designed a point-based scoring mechanism to evaluate similarity between "input_" data and Veridion generated data.
 
-Matching Score Logic: Each pair of fields (e.g. input_main_city <-> main_city) contributes to a cumulative score if the values are equal.
+Matching Score Logic: Each pair of fields (e.g. input_main_city <-> main_city) contributes to a cumulative score if the values are equal. In other words, the more similar the data ("input_" versus "Veridion generated"), the greater the power of a best match.
 
 | Matching Field Pair  | Points |
 | ------------- | ------------- |
@@ -77,5 +77,68 @@ Matching Score Logic: Each pair of fields (e.g. input_main_city <-> main_city) c
 | + input_main_street_number = main_street_number  | +1  |
 | MAXIMUM TOTAL  | 7  |
 
+## 6. SQL Logic – Score and the Best Match
+
+```
+-- Step 1: Scoring and attributing pointers in order to find the most appropriate best match
+WITH scored_matches AS (
+  SELECT *,
+    CASE
+      WHEN input_main_country_code = main_country_code AND
+           input_main_country = main_country AND
+           input_main_region = main_region AND
+           input_main_city = main_city AND
+           input_main_postcode = main_postcode AND
+           input_main_street = main_street AND
+           input_main_street_number = main_street_number THEN 7
+
+      WHEN input_main_country_code = main_country_code AND
+           input_main_country = main_country AND
+           input_main_region = main_region AND
+           input_main_city = main_city AND
+           input_main_postcode = main_postcode AND
+           input_main_street = main_street THEN 6
+
+      WHEN input_main_country_code = main_country_code AND
+           input_main_country = main_country AND
+           input_main_region = main_region AND
+           input_main_city = main_city AND
+           input_main_postcode = main_postcode THEN 5
+
+      WHEN input_main_country_code = main_country_code AND
+           input_main_country = main_country AND
+           input_main_region = main_region AND
+           input_main_city = main_city THEN 4
+
+      WHEN input_main_country_code = main_country_code AND
+           input_main_country = main_country AND
+           input_main_region = main_region THEN 3
+
+      WHEN input_main_country_code = main_country_code AND
+           input_main_country = main_country THEN 2
+
+      WHEN input_main_country_code = main_country_code THEN 1
+
+      ELSE 0
+    END AS pointers
+  FROM veridion
+),
+
+-- Step 2: Rank candidates per input_row_key based on score
+ranked_matches AS (
+  SELECT *,
+    ROW_NUMBER() OVER (
+      PARTITION BY input_row_key
+      ORDER BY pointers DESC
+    ) AS rank
+  FROM scored_matches
+)
+
+-- Step 3: Select only the top-ranked match for each input
+SELECT input_row_key, input_company_name, company_name, pointers, rank
+FROM ranked_matches
+WHERE rank = 1
+ORDER BY input_row_key;
+```
 
 
