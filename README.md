@@ -141,4 +141,14 @@ WHERE rank = 1
 ORDER BY input_row_key;
 ```
 
+## 7. Output & Results
+
+The final output contains 592 rows, representing the top-ranked match for each input data.
+This solution ensures that:
+- Each input row is matched with the most relevant company from Veridion’s database;
+- The process is fully reproducible and explainable using SQL logic alone.
+
+## 8. Data analysis and QC
+
+
 
