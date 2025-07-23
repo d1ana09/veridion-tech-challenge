@@ -1,0 +1,593 @@
+input_row_key,input_company_name,company_name,pointers,rank
+0,24-SEVEN MEDIA NETWORK (PRIVATE) LIMITED,New Millennium Network,4,1
+1,2OPERATE A/S,2A Pharma ApS.,7,1
+2,3 STEP IT A/S,3 Step IT A/S.,2,1
+3,3 STEP IT AS,NIFU,7,1
+4,3 Step IT Sweden AB,Proact IT Sweden,2,1
+5,"3DEGREES GROUP, INC.",3Degrees Inc.,7,1
+6,3Step IT Group Oy,3Step IT Group,7,1
+7,A.T. KEARNEY AB,Jennies Hundsalong,2,1
+8,A. T. KEARNEY PTE. LTD,Binary Core,0,1
+9,AALBORG CITY,AALBORG CITY,7,1
+10,ACCENTURE SERVICES AS,Accenture Norge,2,1
+11,Accutics ApS,Kold Partners,7,1
+12,ACOME,Immobilière Rolline,7,1
+13,"ACOME XINTAI CABLES CO., LTD.",Qingdao Acome Machinery Co. Ltd.,3,1
+14,ADAPT A/S,Adapt Agency,7,1
+15,ADECCO A/S,Elektriker Lyngby,7,1
+16,ADECCO PERSONNEL PTE LTD,Personnel & Organization Development Pte Ltd.,2,1
+17,ADOBE SYSTEMS SOFTWARE IRELAND LIMITED,Adobe Systems Software Ireland,3,1
+18,ADVANCED DIGITAL BROADCAST SA,ADB,3,1
+19,Advanced Network Solutions Sdn Bhd,Advanced Network Solutions Sdn. Bhd.,5,1
+20,ADVANSIA AS,Advansia,7,1
+21,AEGER GROUP AS,Aeger Group,4,1
+22,AFFIRMED NETWORKS INC,Affirmed Networks,7,1
+23,Agg Power Technology (Fuzhou) Co Ltd.,AGG Power,4,1
+24,AIA Berhad,AIA Public Takaful Sungai Buloh Medical Card & Hibah,2,1
+25,AIG EUROPE S.A. NUF,AIG Norge,7,1
+26,AKTIESELSKABET RODOVRE CENTRUM,Aktieselskabet Rødovre Centrum,7,1
+27,ALLEN OVERY SHEARMAN STERLING LLP,A&O Shearman,6,1
+28,ALTAIR GLOBAL RELOCATION SINGAPORE PTE. LTD.,Marubeni-Itochu Tubulars Asia,7,1
+29,"AMAZON WEB SERVICES, INC.",P o STER ART,7,1
+30,AMAZON WEB SERVICES EMEA SARL,TKBEL,2,1
+31,"AMAZON WEB SERVICES EMEA SARL, NORWEGIAN BRANCH",Banh Mi XO,5,1
+32,AMDOCS DEVELOPMENT LIMITED,Amdocs,0,1
+33,"American Express Europe Denmark, filial af American Express Europe S.A., Spanien",HONDA,2,1
+34,American Express Europe SA (Norway),American Express Company AS,6,1
+35,ANALYSYS MASON AS,ANALYSYS,0,1
+36,MASON SITE FINDER LIMITED,Mason Williams Accountants,3,1
+37,ANDCO A/S,Andco A/S.,7,1
+38,Annalect Denmark A/S,Annalect,7,1
+39,Anne Mette Lund,Anne Mette Høy,3,1
+40,ANRITSU A/S,ANRITSU,0,1
+41,Aon Assessment Denmark A/S,CANEA,7,1
+42,AON NORWAY AS,ECO STOR,7,1
+43,APPDYNAMICS UK LTD,AppDynamic,3,1
+44,APPLE DISTRIBUTION INTERNATIONAL LIMITED,Naturliga Bloggen,2,1
+45,APPLE DISTRIBUTION INTERNATIONAL LIMITED,Naturliga Bloggen,4,1
+46,Apple Malaysia Sdn. Bhd.,Apple Malaysia Sdn Bhd.,5,1
+47,Apple South Asia (Thailand) Co Ltd,Asia biogas,3,1
+48,ARELION NORWAY AS,Mixto As,6,1
+49,Arelion AB,Arelion,3,1
+50,ARY COMMUNICATIONS LIMITED,ARY News,3,1
+51,"Ascio Technologies, Corp. Danmark - Filial af Ascio Technologies Corp. Canada",Ascio Technologies,3,1
+52,ASIAINFO DENMARK ApS,Norm Denmark,3,1
+53,Atea A/S,Atea Danmark,7,1
+54,ATEA AS,Atea Finance AS,7,1
+55,Atea Sverige AB,Atea Finance AB.,3,1
+56,NP Investment A/S,Investment Fund for Developing Countries,3,1
+57,ATREBO SL,Punto Recogida Amazon,5,1
+58,AV CENTER AALBORG ApS,Aalborg Anlægsgartneri,3,1
+59,aviat networks bangladesh ltd.,Aviat Electric Store,2,1
+60,Aviat Networks Japan LLC,Aviat Networks,0,1
+61,AWAN DISTRIBUTION FZC,ISDF,4,1
+62,Axteq ApS,Axteq,7,1
+63,Az-Technology Sdn. Bhd.,AZ Technology,5,1
+64,BAE SYSTEMS APPLIED INTELLIGENCE (INTERNATIONAL) LIMITED,BAE Systems Applied Intelligence,4,1
+65,BASICO P/S,Basico P/S.,7,1
+66,"BB CONNECT CO.,LTD.",Amon Tour,2,1
+67,Bb Technology Co Ltd,Truss Development Asia,3,1
+68,BCD TRAVEL ASIA PACIFIC PTE. LTD.,BCD Engineering Services,4,1
+69,BCD N.V.,BCD,7,1
+70,BEAT A/S,Beat Film,4,1
+71,"Beijing Dynamic Power Co., Ltd",Beijing High-tech Dynamic Power Co. Ltd.,5,1
+72,BIGID INC.,BigID,2,1
+73,Binkies Holding B.V.,Binkies,4,1
+74,BLACKWOOD SEVEN A/S,BlackWood,5,1
+75,Blom Soefeldt - Erhvervspsykologisk radgivning,Blom Søefeldt - Erhvervspsykologisk Rådgivning,4,1
+76,BOOST AI AS,Boost,7,1
+77,Bording Danmark A/S,Bording Dannmark A/S.,3,1
+78,Braathens Regional Airways AB,BRA,4,1
+79,BRAINCHILD COMMUNICATIONS PAKISTAN (PVT.) LIMITED,Munir Sukhtian International,2,1
+80,Brobizz A/S,Specialsport Guide,5,1
+81,BUNDGAARD KOLETEKNIK. VEJLE A/S,Bundgaard Køleteknik A/S.,7,1
+82,Bynder Holding B.V.,Bynder,7,1
+83,C&W Services (S) Pte. Ltd.,CW Aero Services,4,1
+84,CAMPANA GROUP PTE. LTD.,Techno Marine,3,1
+85,CBRE AS,Nordics,7,1
+86,CBRE Teknisk Servicepartner A/S,CBRE Teknisk servicepartner,6,1
+87,CELLUSYS LIMITED,Zariot,3,1
+88,CENTERFORENINGEN FISKETORVET SHOPPING CENTER F.M.B.A.,Scandinavian Shopping Center Partners,2,1
+89,CETIN Hungary Zrt.,Drivingcamp,2,1
+90,CHINA TELECOM GLOBAL LTD,China Motion Telecom International Ltd.,4,1
+91,CHINA UNICOM (SINGAPORE) OPERATIONS PTE. LTD.,China Unicom Singapore,7,1
+92,CHUBB GLOBAL RISK ADVISORS PTE. LTD.,Duro Capital,2,1
+93,CIBICOM SERVICES A/S,Cibicom Mobility known as Net1,7,1
+94,CIENA LIMITED,Ciena,4,1
+95,CISCO INTERNATIONAL LIMITED,Cisco Systems London,3,1
+96,CISCO NORWAY AS,Cisco Systems Norway AS,7,1
+97,CITERO AS,Funell,7,1
+98,"CLOUDERA, INC.",ClouderaNOW24,7,1
+99,Comba Technologies Sdn. Bhd.,CM Boost Studio,6,1
+100,COMBA TELECOM LIMITED,Vasav Telecom,3,1
+101,Comengineering Sdn. Bhd.,COMENGINEERING SDN BHD.,7,1
+102,COMMSCOPE SOLUTIONS SINGAPORE PTE. LTD.,All Property Solutions Singapore,4,1
+103,CommScope Technologies AG,Internationales Steuerseminar Schweiz,7,1
+104,COMMSCOPE TECHNOLOGIES LLC,CommScope,2,1
+105,COMVIVA TECHNOLOGIES LIMITED,Comviva Technologies,6,1
+106,CONSCIA DANMARK A/S,Conscia Moments,3,1
+107,CONTROL RISKS GROUP LIMITED,Control Risks Group Holdings Ltd.,6,1
+108,CORPORATE COMMUNICATIONS AS,Corporate Communications,7,1
+109,"COUPA SOFTWARE, INC.",Coupa,7,1
+110,"COURSERA, INC.",Coursera,7,1
+111,CRAYON A/S,Crayon Danmark Inactive,3,1
+112,CRAYON AS,Crayon Group,7,1
+113,CRAYON PTE. LTD.,Crayon Digital Pte Ltd.,2,1
+114,"CROWDSTRIKE SERVICES, INC.",CrowdStrike,7,1
+115,Searcher ApS,Searcher,3,1
+116,"CUSHMAN & WAKEFIELD SERVICES (THAILAND) CO., LTD.",WAKEFIELD INTERFAITH FOOD PANTRY,2,1
+117,DADES Center Ost ApS,Dades,7,1
+118,BONNIER BUSINESS PRESS A/S,Revive by Notabene,7,1
+119,DAILY JURRAT,Print Ustad,6,1
+120,Dansk Kredit Rad,Dansk Fodklinik,3,1
+121,DANSK SUNDHEDSSIKRING KOMPLEMENTARSELSKAB ApS,Audiovox,7,1
+122,DANSKE BANK A/S,Danske Spil,2,1
+123,Dantec Nordics ApS,Dantec Nordics,7,1
+124,DEAS A/S,Deas Erhverv,3,1
+125,DEKO-STYLE V/ANJA GRONNE,Deko Style,5,1
+126,DELFI TECHNOLOGIES A/S,Delfi Technologies,5,1
+127,DELL AS,Dell,7,1
+128,Dell Corporation (Thailand) Co Ltd,Dell Elevator,3,1
+129,DELL PRODUCTS,Dell blinds,2,1
+130,DELOITTE ADVOKATFIRMA AS,Deloitte Norge,7,1
+131,DELOITTE AS,Deloitte Norge,7,1
+132,Deloitte Consulting (Sea) Sdn. Bhd.,Deloitte Consulting Malaysia Sdn Bhd.,6,1
+133,DELOITTE STATSAUTORISERET REVISIONSPARTNERSELSKAB,Statsautoriseret fodterapeut Dorthe Pedersen,2,1
+134,"DELTA EJENDOM, AALBORG A/S",Delta Data,3,1
+135,ELTEK AS,Eltek,5,1
+136,DELTA ELECTRONICS INT'L (SINGAPORE) PTE. LTD.,Delta Electronics,4,1
+137,DHL EXPRESS (SINGAPORE) PTE. LTD.,DHL Express Service Point - BAG IT DHL Partner,4,1
+138,DIAL ZERO (PRIVATE) LIMITED,DIAL ZERO,3,1
+139,Nets Denmark A/S,Nets group,7,1
+140,DIGI TELECOMMUNICATIONS SDN BHD,U Mobile Shah Alam,2,1
+141,Digi Telecommunications Sdn. Bhd.,DiGi Telecommunications,4,1
+142,DK HOSTMASTER A/S,ANDERS LASSEN FONDEN,6,1
+143,DNA OYJ,DNA tester,2,1
+144,DNB Bank Karl Johan,DNB Asset Management,7,1
+145,"DET NORSKE VERITAS, BUSINESS ASSURANCE, DANMARK A/S",Danish Quality Assurance Group,3,1
+146,Dtac Trinet Co Ltd,DTAC TOWER Ban Theling,2,1
+147,DUBEX A/S,Dubex,7,1
+148,DXC TECHNOLOGY NORGE AS,Fjordkraft,7,1
+149,DXC Technology Sverige AB,SchonBerry Networks,3,1
+150,Dynamic-Telecommunication Sdn. Bhd.,Munchworld Marketing Sdn. Bhd. Johor,6,1
+151,EASTCOMPEACE (SINGAPORE) PTE. LTD.,Eastcompeace,4,1
+152,EASTCOMPEACE SMART CARD (BANGLADESH) LIMITED,Easy Card,2,1
+153,"Eastcompeace Technology Co.,Ltd",Eastcompeace,4,1
+154,Ecapacity A/S,LiveIntent,7,1
+155,ECI Media Management AB,Prevecon,7,1
+156,ECI MEDIA MANAGEMENT AB,ECI Media Management,2,1
+157,Edotco Group Sdn. Bhd.,edotco Bangladesh Co. Ltd.,4,1
+158,EDOTCO TOWERS PAKISTAN (PRIVATE) LIMITED,Aquamatch,2,1
+159,Egencia Denmark A/S,Payment Services,3,1
+160,EGENCIA LLC,Egencia New Zealand,2,1
+161,EGENCIA NORWAY AS,Egencia,2,1
+162,Egencia Sweden AB,Egencia,0,1
+163,Egeneration Limited,eGeneration,4,1
+164,ELGIGANTEN GROSSIST A/S,Freetrailer trailerudlejning Elgiganten Glostrup,7,1
+165,ELTEL NETWORKS CONNECT A/S,Eltel Networks,6,1
+166,Energy Cool ApS,Energy Cool,5,1
+167,ENETEK POWER SPOLKA Z OGRANICZONA ODPOWIEDZIALNOSCIA,Spółka OLOGROUP Spółka z ograniczoną odpowiedzialnością,3,1
+168,ENERGI HOBRO TELE A/S,Norlys,7,1
+169,Enreach Campaigns A/S,Enreach DK,3,1
+170,Ericsson (Malaysia) Sdn. Bhd.,Ericsson Telecommunications Sdn. Bhd.,3,1
+171,Ericsson (Thailand) Limited,Ericsson Thailand Ltd.,6,1
+172,ERICSSON AB,Ericsson Väst Seniorförening,2,1
+173,ERICSSON AS,ERICSSON & GEHRKEN,3,1
+174,ERICSSON DANMARK A/S,Ericsson,3,1
+175,ERNST & YOUNG LLP,Ernst Engineering Pte. Ltd.,2,1
+176,EY Godkendt Revisionspartnerselskab,Bech & Barkholt,5,1
+177,ERP DENMARK ApS,UNIGgardin,6,1
+178,Estel Technologies Private Limited,Estel Technologies,3,1
+179,EUTELSAT S.A.,Eutelsat Asia,6,1
+180,Ework Group AB (Publ),Ework Group,4,1
+181,EWORK NORDIC ApS,Nordic Medical Solutions Scandinavia,7,1
+182,EWORK GROUP NORWAY AS,Universal Music,4,1
+183,EXFO Ltd.,EXFO Finland Oy.,4,1
+184,EXIDE TECHNOLOGIES AS,Air Cargo Logistics,7,1
+185,EXPRESS PUBLICATIONS (PVT.) LIMITED,SKY WAYS EXPRESS PVT LTD.,2,1
+186,Extenda Retail AS Avd Oslo,EXTENDA RETAIL,7,1
+187,F5 NETWORKS LIMITED,F5 Photography Limited,3,1
+188,FACEBOOK IRELAND LIMITED,Base Furnishings,4,1
+189,Falck Danmark A/S,Falck,7,1
+190,Fastbridge Malaysia Sdn Bhd,Siab M Sdn Bhd.,6,1
+191,Favro Holding AB,Favro,7,1
+192,Fiberail Sdn. Bhd.,Next New Wave,6,1
+193,Fibrecomm Network (M) Sdn. Bhd.,FIBRECOMM,4,1
+194,DANSK HALON TEKNIK ApS,Dansk Natur Teknik - Topkapning Nordsjælland,3,1
+195,FORM DANMARK ApS,Stål & Form,3,1
+196,SYKES ENTERPRISES NORWAY AS,Dalen legesenter,6,1
+197,GARTNER ADVISORY (SINGAPORE) PTE LTD,VinaCapital,7,1
+198,GARTNER NORGE AS,Gartner Norge,7,1
+199,GBT TRAVEL SERVICES UK LIMITED,PAF SECURITISATION NO.,7,1
+200,Genex Infosys Limited,Genex Infosys,4,1
+201,GEO ENTERTAINMENT TELEVISION (PVT.) LIMITED,HarPal Geo,2,1
+202,GINTEL AS,Gintel Norway,7,1
+203,GLOBALCONNECT A/S,K&L Global Connect,3,1
+204,Glory Fashions Ltd.,Glory Print BD,4,1
+205,Goecker Service A/S,KIFUs,7,1
+206,GOGIFT.COM A/S,Firmagaver,2,1
+207,Google Asia Pacific Pte. Ltd.,Google Asia Pacific Pte. Ltd.,2,1
+208,Google Cloud EMEA Limited,ISP Cloud Services Inc.,0,1
+209,GOOGLE COMMERCE LIMITED,Google Commerce Limited,2,1
+210,GOOGLE IRELAND LIMITED,Google Commerce Limited,6,1
+211,GRAMEENPHONE LTD,Grameenphone Centre,2,1
+212,Grassfish Denmark ApS,Jysk Auto ApS.,6,1
+213,Green Packet Berhad,GREEN PACKET,6,1
+214,GreenMind A/S,GreenMind,3,1
+215,grey advertising ( bangladesh) ltd.,Backpage PR,2,1
+216,GSM ASSOCIATION,GSMA Intelligence,7,1
+217,"HARBIN COSLIGHT NEW ENERGY CO., LTD.",Harbin Xinju New Energy Co. Ltd.,4,1
+218,HE SIKRING A/S,Sikring 247,3,1
+219,HELP Forsakring filial,Helpreklam,2,1
+220,HELP FORSIKRING AS,HELP Forsikring,7,1
+221,"HELP FORSIKRING,FILIAL AF HELP FORSIKRING AS, NORGE",HELP Forsikring,7,1
+222,HERM. RASMUSSEN A/S,HA85,5,1
+223,HEST AGENTUR AS,HEST Agentur,7,1
+224,HETEK A/S,HETEK,7,1
+225,Hewlett-Packard (M) Sdn Bhd,Hewlett Packard Sales m Sdn. Bhd.,2,1
+226,Hewlett-Packard (Thailand) Ltd.,Thai Cad Services,5,1
+227,HEWLETT-PACKARD ApS,HPE Decoded,2,1
+228,HEWLETT-PACKARD NORGE AS,ThinkEV,7,1
+229,"Hewlett Packard Singapore (Sales) Pte., Ltd.",Poyoko Trading,4,1
+230,HEWLETT-PACKARD SVERIGE AB,Hewlett-Packard Sverige AB.,2,1
+231,"HIGH TOUCH, INC.",High Touch Remodeling,7,1
+232,HOLDSPORT.DK ApS,Walther Rådgivende Ingeniør,6,1
+233,HOPPECKE BATTERIEN GMBH & CO. KG,Hoppecke Batterien bremecketal,2,1
+234,HP INC (THAILAND) COMPANY LIMITED,B.M.G CORPORATION CO LTD.,3,1
+235,HP INC DANMARK ApS,HP Inc Denmark ApS.,7,1
+236,HP NORGE AS,ThinkEV,7,1
+237,Hp Pps Sales Sdn. Bhd.,HP PPS Sales Sdn Bhd.,6,1
+238,HP PPS SINGAPORE (SALES) PTE. LTD.,HP Alumni Singapore,3,1
+239,HUAWEI INTERNATIONAL PTE. LTD.,Huawei Enterprise,2,1
+240,Huawei Technologies (Bangladesh) Limited.,Shahidul Islam Sarker,2,1
+241,HUAWEI TECHNOLOGIES (DENMARK) ApS,Huawei Denmark,5,1
+242,Huawei Technologies (Malaysia) Sdn. Bhd.,Huawei Technologies Malaysia Sdn Bhd TRX,4,1
+243,"HUAWEI TECHNOLOGIES (THAILAND) CO., LTD.",Huawei Technologies Thailand Co Ltd.,3,1
+244,HUAWEI TECHNOLOGIES NORWAY AS,Huawei Technologies Norway AS,7,1
+245,HUAWEI TECHNOLOGIES PAKISTAN (PRIVATE) LIMITED,HUAWEI Pakistan,5,1
+246,Huawei Technologies Sweden AB,Huawei Sweden,2,1
+247,HUBER+SUHNER A/S,Huber Suhner A/S.,3,1
+248,Huber+Suhner AG,HUBER SUHNER Sales Partners,7,1
+249,HUBER+SUHNER ELECTRONICS PRIVATE LIMITED,HUBER SUHNER,0,1
+250,Hum Network Limited,Hum Network,3,1
+251,Human Edge Management AG,Human Edge,7,1
+252,Hydro Energi AS,Hydro Aluminium Rolled Products Benelux BV.,7,1
+253,IBM DANMARK A/S,IBM CIC.,2,1
+254,Idemia France SAS,Idemia,2,1
+255,OBERTHUR TECHNOLOGIES NORWAY AS,Oberthur Technologies,0,1
+256,"IKANO BANK, FILIAL AF IKANO BANK AB (PUBL), SVERIGE",Ikano Bank,7,1
+257,Imi Mobile Vas Limited,Bangla Trac Miaki Vas Limited,2,1
+258,IMIMOBILE EUROPE LIMITED,IMI Mobile VAS Ltd FZE,7,1
+259,INDEPENDENT MEDIA CORPORATION (PRIVATE) LIMITED.,Private Helipad Ali Villa,5,1
+260,INFINERA CORPORATION,INFINERA CORP,7,1
+261,INFOMEDIA A/S,INFOMEDIA,5,1
+262,INFOSYS LIMITED,Infosys BPM,6,1
+263,Ingram Micro Mobility Sweden AB,INGRAM MICRO NORDIC LOGISTICS AB.,2,1
+264,inlumi ApS,Carmadrink267,6,1
+265,INSIDER SECURITY PTE. LTD.,CareCam,4,1
+266,INTEGRITY RISK INTERNATIONAL LLC,Integrity Risk International,7,1
+267,Intouch Insight Inc.,Intouch Insight,4,1
+268,Intrum Debt Finance AG,FINANCE SKY,3,1
+269,ADVIS A/S,Advis and Co.,0,1
+270,IPG MEDIABRANDS (SINGAPORE) PTE. LTD.,IPG Mediabrands APAC,2,1
+271,Ipsos Sdn. Bhd.,Ipsos Malaysia,2,1
+272,ISS Facility Services A/S,ISS Facility Services Ltd.,5,1
+273,ISS FACILITY SERVICES AB,ISS Faciliy Services AB.,2,1
+274,ISS FACILITY SERVICES AS,ISS Facility Services Norge,7,1
+275,ISS GLOBAL A/S,ISS,3,1
+276,ITECTRA A/S,Itectra,3,1
+277,JACK OF DIGITAL (PRIVATE) LIMITED,Brand Calibre,5,1
+278,AEON DANMARK A/S,IFACT,7,1
+279,Jastel Network Co Ltd,Jastel,3,1
+280,JLL Corporate Solutions AB,JLL CORPORATE SOLUTIONS AB.,2,1
+281,JOB-INDEX A/S,Jobindex,6,1
+282,JOBSTREET.COM PTE LTD,International Tax Management,6,1
+283,JOHNSON CONTROLS DENMARK APS,Johnson Controls Denmark ApS Head office,7,1
+284,JONES LANG LASALLE PROPERTY CONSULTANTS PTE LTD,Jones Lang Lasalle Property Consultants Pte. Ltd.,2,1
+285,Kahoot! Denmark ApS,Kahoot,0,1
+286,KAMTOWER DANMARK A/S,CyberJuice,5,1
+287,KANTAR TNS AS,Finnfotterapeut,7,1
+288,"Kaon Broadband Co.,Ltd.",KAON MEDIA,4,1
+289,KERRY FREIGHT PAKISTAN (PRIVATE) LIMITED,Kerry Cart,2,1
+290,Kerry Logistics Network Limited,Kerry Logistics,3,1
+291,KINLY HOLDING AS,Kinly AS avd Trondheim,2,1
+292,KINNARPS A/S,Kinnarps,3,1
+293,KLM-ROYAL DUTCH AIRLINES Filial av utenlandsk foretak.,Foretak. KLM-Royal Dutch Airlines filial Av utenlandsk,4,1
+294,KM TELECOM DANMARK A/S,KM TELECOM,7,1
+295,KMD Venture A/S,KMD Kommunedata,3,1
+296,KODA,NCB,7,1
+297,KOLEGRUPPEN OST ApS,BÄKO DANMARK,6,1
+298,KOMMANDITAKTIESELSKABET FREDERIKSSUND SHOPPINGCENTER,Frederikssund Forsynings Personaleforening,2,1
+299,KORN FERRY (UK) LIMITED,Korn Ferry,7,1
+300,Kpmg AS Hovedkontor,KPMG - Ulsteinvik,2,1
+301,KROLL ASSOCIATES U.K. LIMITED,Kroll,6,1
+302,Kromann Reumert,Kromann Reumert,7,1
+303,LOXYSOFT AS,Bording Cognito AS,7,1
+304,LEASE PLAN FINANS A/S,FeetuniqueFollow,6,1
+305,LeasePlan Sverige AB,Leaseplan,4,1
+306,LEOCH BATTERY PTE. LTD.,BATTERY MINERALS & SUPPLY CHAIN,4,1
+307,LINKEDIN IRELAND UNLIMITED COMPANY,Telugukavithalugalgala,0,1
+308,LINKEDIN SINGAPORE PTE. LTD.,LinkedIn Local Student,4,1
+309,L.M. Ericsson Bangladesh Ltd.,LM Ericsson Bangladesh Ltd.,2,1
+310,SCANOPTIK A/S,Viewpoint,7,1
+311,LOYALTY AS,Loyalty,4,1
+312,MAKIO ApS,MAKIO,3,1
+313,Manpower Student AB,Manpower,4,1
+314,MANPOWER AS,MANPOWER,7,1
+315,Mapspeople A/S,Wrist Ship,7,1
+316,MARKEDSSJEFENE AS,CHOOOSE,7,1
+317,JLT Denmark A/S,Jyske Finans,2,1
+318,MARSH & MCLENNAN AGENCIES AS,Malermestrene Juuhl & Bratfoss,5,1
+319,Maven Wireless Sweden AB,Maven Wireless,6,1
+320,MAVENIR SYSTEMS AB,Mavenir Systems AB.,3,1
+321,MAVENIR SYSTEMS LIMITED,Mavenir Ipa Uk Limited,3,1
+322,MAVENIR SYSTEMS UK LIMITED,Mavenir Systems Inc.,3,1
+323,Measat Satellite Systems Sdn. Bhd.,MEASAT,3,1
+324,Media Times Limited,Cricket Pakistan,3,1
+325,MEISEL EIENDOM AS,Lier Planteland,6,1
+326,META PLATFORMS IRELAND LIMITED,META World,3,1
+327,MICROSOFT IRELAND OPERATIONS LIMITED,Microsoft Ireland Dream Space,4,1
+328,MICROSOFT NORGE AS,Microsoft Norway,7,1
+329,MICROSOFT REGIONAL SALES PTE. LTD.,Tan Rajah & Cheah,7,1
+330,ABC KANTINEAUTOMATER ApS,ABC Spilleautomater,3,1
+331,NW GRUPPEN A/S,Miralix,7,1
+332,"MIXPANEL, INC.",Mixpane,5,1
+333,MNEMONIC AS,mnemonic AS.,7,1
+334,MobilePeople ApS,Mobilepeople,3,1
+335,"MOBILEUM, INC.",Mobileum,7,1
+336,MODULEX DANMARK A/S,Modulex manufacturing,5,1
+337,Monday. Kum Ltd.,Monday,4,1
+338,Mustika Teratai Sdn. Bhd.,Mustika Teratai Sdn. Bhd.,5,1
+339,NAGARRO AS,Nagarro AG,0,1
+340,NAGARRO ENTERPRISE SERVICES PRIVATE LIMITED,Nagarro Hiring Team,3,1
+341,NEC CORPORATION,NEC Corporation of Malaysia,4,1
+342,NEC CORPORATION OF MALAYSIA SDN. BHD.,Intellectual Property Corporation of Malaysia MyIPO,4,1
+343,NEC Scandinavia Aktiebolag,Dataphone,3,1
+344,NEMTILMELD.DK ApS,NemTilmeld,7,1
+345,Nepa AB,Prevecon,7,1
+346,NERAS DIREKTE AS,Direkte Frakt,3,1
+347,Nestor Cables Oy,Nestor Cables,7,1
+348,NET ONE ASIA PTE. LTD.,Net One Asia,5,1
+349,NETIC A/S,Netic,7,1
+350,NETS DANMARK A/S,Nets group,7,1
+351,New Skies Satellites B.V.,NWB Bank,6,1
+352,NEWS PUBLICATIONS (PRIVATE) LIMITED,Private Helipad Ali Villa,4,1
+353,NEXCOM A/S,Nexcom A/S.,4,1
+354,NOITSO A/S,Forenede Gruppeliv,7,1
+355,Nokia Innovations Oy,Nokia Oyj,7,1
+356,NOKIA SERVICES AND NETWORKS MALAYSIA SDN. BHD.,Rksb Services And Trading Ip0323213-V,2,1
+357,NOKIA SOLUTIONS AND NETWORKS NORGE AS,Polypure,7,1
+358,Nokia Solutions and Networks Oy,Nokia Oyj,7,1
+359,"NORDEA BANK ABP, FILIAL I NORGE",Nordea,7,1
+360,NORDIC COMPUTER A/S,Nordic Computer,7,1
+361,NORDIX DATA AS,Nordix Data,7,1
+362,DMA Research A/S,PrivacyWallet,5,1
+363,NORWEGIAN AIR SHUTTLE AS (PS),Norwegian Air Shuttle,3,1
+364,NOVATARIS A/S,Novataris,7,1
+365,Ntt (Thailand) Ltd,NTT DATA Thailand,4,1
+366,NTT ASIA PACIFIC HOLDINGS PTE. LIMITED,NTT Advanced Technology Singapore,7,1
+367,NTT DATA Business Solutions Korlatolt Felelossegu Tarsasag,NTT DATA Business Solutions Hungary,2,1
+368,ITELLIGENCE A/S,IT ELLIGENCE,0,1
+369,Ntt Malaysia Solutions Sdn. Bhd.,NTT DATA Malaysia,4,1
+370,Ntt Msc Sdn. Bhd.,NTT Cloud Communications Malaysia Sdn Bhd.,7,1
+371,OCH A/S,Och DK A/S.,5,1
+372,OK A.M.B.A.,FITNESSHELP ANBEFALER,5,1
+373,Omd (M) Sdn. Bhd.,OMD World Imaging,2,1
+374,OMD AS,OMD Norway,5,1
+375,Media Direction A/S,Omnicom Media Group Denmark,7,1
+376,OMEGA EXIM LIMITED,Vantage Technologies,4,1
+377,OMNICOM MEDIA GROUP AS,Omnicom Media Group AS,5,1
+378,OMNICOM MEDIA GROUP ASIA PACIFIC PTE. LTD.,Omnicom PR Group Singapore,3,1
+379,ON THE SPOT A/S,ON THE SPOT,7,1
+380,ONETRUST TECHNOLOGY LIMITED,OneTrust ES,4,1
+381,Oracle Corporation (Thailand) Co Ltd,Cyklop Signode Packaging Corporation Thailand Co. Ltd.,3,1
+382,Oracle Corporation Malaysia Sdn. Bhd.,Kasan Corporation M Sdn Bhd.,2,1
+383,ORACLE DANMARK APS,Oracle Konsulent,2,1
+384,ORACLE NORGE AS,Oracle Norge AS,5,1
+385,ORACLE SVENSKA AB,Oracle Pet,2,1
+386,Orbis Oy,MitTest,7,1
+387,OROGENIC ApS,Orogenic,5,1
+388,"ORRICK, HERRINGTON & SUTCLIFFE (UK) LLP",Herrington Gate,3,1
+389,P1 SECURITY,P1 Security,7,1
+390,"Paco Casa Co.,Ltd.",Casa Lenzi,3,1
+391,PAKISTAN INSTITUTE OF NUCLEAR SCIENCE & TECHNOLOGY (PINSTECH),Pakistan Institute of Nuclear Science & Technology,5,1
+392,PARENT AND FAMILY CONSULTING LIMITED,Parent Zone Local,7,1
+393,PELATRO LIMITED,Aspects of History,6,1
+394,Varsta Software,Varsta Petri,2,1
+395,PING IT A/S,Ping IT,3,1
+396,Playable ApS,Playable,7,1
+397,PLESNER Advokatpartnerselskab,Plesner,7,1
+398,PLP INVEST/EJENDOMME A/S,PLP Invest Ejendomme,3,1
+399,"PLURALSIGHT, LLC",Pluralsight,7,1
+400,PM ENERGI A/S,Pm energi,7,1
+401,Postnord Danmark (B2452),PostNord Birkerød Postbutik,4,1
+402,POSTEN BRING AS,Posten Bring,7,1
+403,DATA SCANNING A/S,Globetrotter Huset,7,1
+404,PostNord Stralfors AB,Strålfors,4,1
+405,PRICEWATERHOUSECOOPERS STATSAUTORISERET REVISIONSPARTNERSELSKAB,ECOVIS Danmark State Authorized Public Accountants,4,1
+406,PRICEWATERHOUSECOOPERS AS,PricewaterhouseCoopers Norway,4,1
+407,PROPAKISTANI SOLUTIONS (PRIVATE) LIMITED,ProPakistani,2,1
+408,DRAKA NORSK KABEL AS,Total Coating,6,1
+409,Publicis Groupe Holdings B.V.,Publicis One,2,1
+410,QCC GLOBAL LIMITED,QCC CONSTRUCTION,3,1
+411,QCC INTERSCAN LTD,QCC Ltd.,3,1
+412,QLIKTECH DENMARK ApS,Qliktech,5,1
+413,QlikTech International Markets AB,QLIKTECH INTERNATIONAL AB.,2,1
+414,QlikTech Nordic AB,QLIKTECH INTERNATIONAL AB.,2,1
+415,"QUALTRICS, LLC",Qualtrics,2,1
+416,QUESTBACK AS,Questback,7,1
+417,Radio Frequency Systems Gesellschaft mit beschrankter Haftung,Radio Frequency Systems,7,1
+418,RAJAH & TANN,Rajah & Tann,4,1
+419,RAPID7 INTERNATIONAL LIMITED,Rapid 7 EMEA Internal Moose,3,1
+420,Red Hat Asia Pacific Pte Ltd,Red Bike Asia,4,1
+421,RED HAT LIMITED,Red PR Limited,3,1
+422,Red Hat Malaysia Sdn. Bhd.,Red Seal Malaysia,2,1
+423,RELOCATION AS,Relocation,5,1
+424,RETAIL FOCUS A/S,Retail Institute Scandinavia,6,1
+425,REVEALCX LLC,RevealCX Inc.,2,1
+426,Rezponz A/S,Rezponz A S Charging Station,7,1
+427,Rhenus Warehousing Solutions Denmark A/S,Rhenus Warehousing Solutions,6,1
+428,RITTAL A/S,Rittal A/S.,7,1
+429,RTTD LTD,RTTD,0,1
+430,BRINTH & HILLERUP A/S,Escape,7,1
+431,SAGEMCOM BROADBAND SAS,Sagemcom,3,1
+432,"SAILPOINT TECHNOLOGIES, INC.",SAILPOINT TECHNOLOGIES,2,1
+433,SALESFORCE UK LIMITED,The Salesforce PM,3,1
+434,SALESFORCE.COM SINGAPORE PTE. LTD.,LIVING OAKS,7,1
+435,Salling Group Forsikring A/S,Salling Group,3,1
+436,Saluran Cekap (M) Sdn. Bhd.,GNEX,5,1
+437,SAMSUNG ELECTRONICS NORDIC AKTIEBOLAG,Samsung Electronics Nordic AB.,4,1
+438,SANVARU TECHNOLOGY LIMITED,Sanvaru Technology,5,1
+439,SAP DANMARK A/S,Invoicery,7,1
+440,SAS INSTITUTE AS,Hoegheiendom,7,1
+441,SAVILLE CONSULTING DANMARK A/S,Saville Consulting Danmark,4,1
+442,SCHNEIDER ELECTRIC DANMARK A/S,XcelgoXcelgo,2,1
+443,Scrive AB,Scrive,2,1
+444,ServiceNow Nederland B.V.,ServiceNow BV.,7,1
+445,SFDC IRELAND LIMITED,Salesforce,0,1
+446,"SHANDONG SACRED SUN POWER SOURCES CO., LTD",Qufu Shaolin Kung Fu School,5,1
+447,"SHENZHEN CENTER POWER TECH. CO., LTD.",Xingkerong,4,1
+448,"Shenzhen Huaptec Co., Ltd",Shenzhen Aomiou Technology Co. Ltd.,6,1
+449,"Shenzhen Sdmc Technology Co., Ltd",SDMC Technology,4,1
+450,"SHENZHEN SKYWORTH DIGITAL TECHNOLOGY CO., LTD.",SKYWORTH,4,1
+451,SHIELDS ENVIRONMENTAL GROUP LTD,Sapphire Steel,6,1
+452,"Shuangdeng Group Co., Ltd.",Shuangdeng Group,5,1
+453,Siae Microelettronica Sdn. Bhd.,Cube-Coms,3,1
+454,Siae-microelettronica - S.p.a.,R.S.U. Siae Microelettronica,3,1
+455,Sievo Oy,Sievo Bucharest Office,6,1
+456,SIGNICAT AS,Arntzen de Besche,2,1
+457,SILLEHOVED ApS,Sillehoved,7,1
+458,SINGTEL GLOBAL INVESTMENT PTE. LTD.,TRIFECTA SINGAPORE,7,1
+459,SiPM,School of Indian Percussion and Music,0,1
+460,Skillpower Services (Thailand) Co Ltd,FIRST CLASS LOGISTICS,4,1
+461,SKYCALL AS,Skycall AS,7,1
+462,Smart Media4U Technology Pte. Ltd.,SmartWristTech,4,1
+463,SMART TECHNOLOGIES (BD) LIMITED,Smart Technologies BD Ltd. Store Room,5,1
+464,Smartly.io Holding Inc,SF Holding,3,1
+465,SNOW SOFTWARE AB,SNOW SOFTWARE,2,1
+466,Snow Software ApS,European Energy,7,1
+467,SNOW AS,Dråpen i Havet,6,1
+468,"SoftwareONE Co., Ltd.",Comparex,0,1
+469,SOFTWAREONE NORWAY AS,SoftwareONE Norge AS,7,1
+470,SOFTWAREONE PTE. LTD.,Software One Inc.,0,1
+471,SONY MOBILE COMMUNICATIONS AB,Sony Store,7,1
+472,South Pole Sweden AB,South Pole,6,1
+473,Southern Cable Sdn. Bhd.,Southern Nine Sdn. Bhd.,3,1
+474,Splunk Inc.,Splunk Securities Litigation,2,1
+475,SPORTS STAR INTERNATIONAL (PRIVATE) LTD.,SportStar Club Industries,2,1
+476,SQUARETRADE EUROPE LIMITED,Square Trade,0,1
+477,SQUARETRADE LIMITED,SquareTrade,6,1
+478,Starcom FZ-LLC,STARCOM MEDIA VEST GROUP FZ-LLC,3,1
+479,STARSEED TECHNOLOGIES (S) PTE. LTD.,StarSeed,3,1
+480,Stena Recycling Holding AB,Stena Recycling AB - Tingstad,4,1
+481,STORM COMMUNICATIONS AS,Storm Communications,4,1
+482,SUBEX (ASIA PACIFIC) PTE. LIMITED,Subex,0,1
+483,SUBEX (UK) LIMITED,SUBEX,0,1
+484,Sutera Utama Sdn. Bhd.,McDonald's Taman Sutera Utama,4,1
+485,Swichtec Power Systems Sdn. Bhd.,Swichtec Power Systems,5,1
+486,Syarikat Takaful Malaysia Keluarga Berhad,TAKAFUL MALAYSIA,6,1
+487,"SYNIVERSE COMMUNICATIONS, LLC",Syniverse,7,1
+488,Systems Limited,B2B Systems,3,1
+489,Systemteknik af 2021 A/S,Aalborg Gummivarefabrik,7,1
+490,T/A POL AS,iSEKK,7,1
+491,TALEND SINGAPORE PTE. LTD.,Reed Tan Digital,7,1
+492,Talend Sweden AB,Talend sa.,2,1
+493,Talentech ApS,Talentech Denmark,7,1
+494,TAMPNET AS,Tampnet AS,5,1
+495,Tata Communications International Pte. Ltd.,Tamita Singapore Advisors Pte Ltd.,7,1
+496,TATA COMMUNICATIONS INTERNATIONAL PTE. LTD.,TATA COMMUNICATIONS DIGO,3,1
+497,"TATA CONSULTANCY SERVICES LIMITED, FILIAL AF TATA CONSULTANCY SERVICES LTD.,INDIEN",TATA SKO,4,1
+498,TATA CONSULTANCY SERVICES SVERIGE AB,Tata tak,2,1
+499,TCT MOBILE INTERNATIONAL LTD.,TCT Asia,4,1
+500,TD SYNNEX Denmark ApS,Midtjysk Hundecenter,5,1
+501,TEALIUM INC.,Tealium,7,1
+502,"TEAM INTERNATIONAL SERVICES, INC.",TEAM International,5,1
+503,TECH MAHINDRA (THAILAND) COMPANY LIMITED,Teachtech,2,1
+504,Tech Mahindra Ict Services (Malaysia) Sdn. Bhd.,Munchkin Childcare Centre,6,1
+505,Tecnotree Oyj,Tecnotree,2,1
+506,TELECOM EQUIPMENT PTE LTD,ZONETEL,4,1
+507,Telekom Malaysia Berhad,TM Global,6,1
+508,TELENOR SHARED SERVICES DENMARK A/S,Ansigtsproteser DK,7,1
+509,TELENOR ASA,Telenor,4,1
+510,TELENOR BROADCAST HOLDING AS,Telenor Satellite,5,1
+511,Telenor Connexion AB,Telenor,4,1
+512,TELENOR D.O.O. BEOGRAD,Yettel,4,1
+513,TELENOR DANMARK HOLDING A/S,CPH Raft,4,1
+514,TELENOR DIGITAL AS,Telenor Objects AS,5,1
+515,TELENOR FIBER AS,Telenor Towers,5,1
+516,TELENOR GLOBAL SHARED SERVICES PAKISTAN (PRIVATE) LIMITED,Al Malik Security Services Pakistan Private Limited,2,1
+517,TELENOR GO PTE. LTD.,Telenor Asia,4,1
+518,TELENOR LDI COMMUNICATIONS (PVT.) LIMITED,Telenor Franchise Brainz Communication,2,1
+519,TELENOR GLOBAL SERVICES AS,Telenor Linx,5,1
+520,Telenor Magyarorszag Zrt.,Yettel Business Blog,7,1
+521,TELENOR NORGE AS,Telenor Norges,5,1
+522,TELENOR PAKISTAN,Telenor Pakistan,4,1
+523,TELENOR PROCUREMENT COMPANY PTE. LTD.,Telenor Asia,4,1
+524,TELENOR REAL ESTATE AS,Telenor Expo,5,1
+525,Telenor Shared Services AS,Telenor Cloud services AS,5,1
+526,TELENOR SOFTWARE LAB AS,Viken Bil Teknikk AS Mekonomen,4,1
+527,TELENOR SVALBARD AS,Svalbard,2,1
+528,TELETEAMET A/S,RC Model Truck Fyn,6,1
+529,Teliti Teknik Sdn Bhd,TELITI TEKNIK,3,1
+530,Textilia Group A/S,Textilia Group A S Skovlunde - Restauration & Catering,3,1
+531,Thailife Insurance Public Company Limited,Thai Life Insurance,5,1
+532,SETEC CARD A/S,SETEC,0,1
+533,GEMALTO NORGE AS,Gemalto Norge AS,7,1
+534,Thales DIS Sweden AB,Thales Sverige AB.,3,1
+535,TIETOEVRY NORWAY AS,Negotia,5,1
+536,TIETOEVRY TECH SERVICES NORWAY AS,Negotia,7,1
+537,TINEX GROUP AS,TINEX Group,7,1
+538,Tm Technology Services Sdn. Bhd.,Menara Language Center,5,1
+539,Tongyu Communication Inc.,Tongyu Auto Parts,3,1
+540,Tp Link International Ltd.,LINK Logistics International Network,5,1
+541,TPM DATA ApS,Sundhed akupunktur,7,1
+542,"Tradium, Erhvervsskole og - gymnasier, Randers S/I",Tradium,7,1
+543,TRANSMODE SYSTEMS AB,Transmode,4,1
+544,TREND MICRO (SINGAPORE) PTE. LTD.,Touch of Trend Singapore,4,1
+545,Trifork A/S,Trifork Academy,7,1
+546,True Move H Universal Communication Co Ltd,Universal Technologies Thailand Co. Ltd.,3,1
+547,TRUSTZONE A/S,TRUSTZONE,5,1
+548,TT DOTCOM SDN. BHD.,MPCN,3,1
+549,TT-NETVAERKET P/S,TT Network,7,1
+550,TUTELA TECHNOLOGIES LTD.,Tutela,7,1
+551,TXO SYSTEMS LTD,TXO Systems,7,1
+552,UIPATH SRL,UiPath Foundation,4,1
+553,Unit Trust Of Pakistan,M.H. Ghanchi International,5,1
+554,"UNITED INFORMATION HIGHWAY CO., LTD.",UIH,3,1
+555,Ur Consult ApS,Roested,6,1
+556,UTEL AS,Utel AS,7,1
+557,VANTIVA TECHNOLOGIES,Vantiva,3,1
+558,Vertiv (Malaysia) Sdn. Bhd.,VERTIV,0,1
+559,"VERTIV (THAILAND) CO., LTD.",Vertiv,0,1
+560,Vertiv Energy Private Limited,VERTIV CHAKAN PLANT,3,1
+561,VERTIV (SINGAPORE) PTE. LTD.,2nd phase design,3,1
+562,Viaplay Group AB (publ),Viaplay,4,1
+563,VIRTUAL WORLD (PVT.) LIMITED,TRACKING WORLD,2,1
+564,MV-NORDIC A/S,Vidensportal,6,1
+565,VOXOGO ApS,Hintly,7,1
+566,WATCHDATA TECHNOLOGIES PTE LTD,Watchdata,7,1
+567,WATEEN SOLUTIONS (PVT.) LIMITED,Multi-Task Solution,4,1
+568,Waystream AB,Waystream,3,1
+569,WIDEROE AS,Widerøes Flyveselskap,7,1
+570,Wilke Markedsanalyse A/S,Wilke A S Aarhus,3,1
+571,WIPRO LIMITED,Wipro Limited,3,1
+572,WIPRO LIMITED (SINGAPORE BRANCH),Singapore Hongjian International Management College,4,1
+573,Wire & Wireless Co Ltd,Wire & Wireless,2,1
+574,WOODLANDS TRANSPORT SOLUTIONS PTE. LTD.,Woodlands Transport,2,1
+575,WORKDAY LIMITED,Better workday,4,1
+576,WTW REAL ESTATE SDN. BHD.,CBRE WTW,4,1
+577,XIT SOFTWARE ApS,xIT Software,5,1
+578,Yangtze Optical Fibre And Cable Joint Stock Ltd.,Yangtze Optical Fibre and Cable Joint Stock,5,1
+579,YINDA TECHNOLOGY (THAILAND) COMPANY LIMITED,Kingtent Technology,2,1
+580,ZALARIS HR SERVICES DANMARK A/S,NordicLux,6,1
+581,Zalaris HR Services Finland Oy,Music Aggregation Services Finland Oy.,2,1
+582,ZALARIS HR SERVICES NORWAY AS,Mortenlaks,5,1
+583,Zalaris HR Services Sverige AB,Zalaris,4,1
+584,ZENDATA ApS,Zendata,3,1
+585,ZHONGXING TELECOM PAKISTAN (PRIVATE) LIMITED,ZTE Zhongxing Telecom Pakistan Pvt Ltd.,2,1
+586,ZIFF DAVIS IRELAND LIMITED,Ziff Davis,0,1
+587,Zte (Malaysia) Corporation Sdn. Bhd.,Malik Streams,4,1
+588,Zte (Thailand) Co Ltd,ZTE Thailand,3,1
+589,Zte Corporation,ZTE,4,1
+590,Z.T.E. CORPORATION BANGLADESH LTD.,ZTE Corporation Bangladesh Limited,4,1
+591,ZTE NORWAY AS,Polypure,7,1
